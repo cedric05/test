@@ -1,4 +1,5 @@
 # price list and item codes
+```
 +--------------|--------------|---------+
 | Product Code |     Name     |  Price  |
 +--------------|--------------|---------+
@@ -8,7 +9,7 @@
 |     MK1      |   Milk       |  $4.75  |
 |     OM1      |   Oatmeal    |  $3.69  |
 +--------------|--------------|---------+
-
+```
 
 # RUNNING
 Pass cart items as command line inputs. final price of cart value after discounts is printed on screen
